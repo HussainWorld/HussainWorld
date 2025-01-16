@@ -7,6 +7,9 @@
 - 🌱 I’m currently learning node.js
 - 📫 How to reach me **hussain.nader.it@gmail.com**
 - ⚡ Fun fact: ☕ Tea lover
+- 🌟 Checkout my [projects](https://github.com/HussainWorld) and leave a **_STAR_**
+- 🔗 Following me, it's **_FREE_**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -20,14 +23,27 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<!--- GO Lnag --->
+<a href="https://www.google.com/search?client=safari&rls=en&q=go+programing+language&ie=UTF-8&oe=UTF-8" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Go-000?&logo=Go" alt="go lang" width="40" height="40"/> </a>
+<!--- EGS  --->
+<a href="https://www.google.com/search?client=safari&rls=en&q=go+programing+language&ie=UTF-8&oe=UTF-8" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-EJS-000?&logo=ejs" alt="egs" width="40" height="40"/> </a>
+<!--- SWIFT  --->
+<a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Swift-000?&logo=swift" alt="swift" width="40" height="40"/> </a>
 </p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HussainWorld&show_icons=true&locale=en&layout=compact" alt="rehans-life" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HussainWorld&" alt="rehans-life" /></p>
+<h3 align="left">Github stats:</h3>
+
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/HASANALI117/HASANALI117/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="HussainWorld" />
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HussainWorld&show_icons=true&locale=en&layout=compact" alt="HussainWorld" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HussainWorld&" alt="HussainWorld" /></p>
 
 
-<!---
+<!--- 
 HussainWorld/HussainWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

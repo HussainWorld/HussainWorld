@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning node.js
 - 📫 How to reach me **hussain.nader.it@gmail.com**
 - ⚡ Fun fact: ☕ Tea lover
-- 🌟 Checkout my [projects](https://github.com/HussainWorld) and leave a **_STAR_**
+- 🌟 Checkout my [projects](https://github.com/HussainWorld) and leave a **_STAR_** ✨
 - 🔗 Following me, it's **_FREE_**
 
 

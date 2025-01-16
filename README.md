@@ -35,12 +35,13 @@
 <h3 align="left">Github stats:</h3>
 
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/HASANALI117/HASANALI117/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="HussainWorld" />
+    <img align="center" style="width: 100%;" src="https://github.com/HussainWorld/HussainWorld/blob/output/github-snake-dark.svg" alt="HussainWorld" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HussainWorld&show_icons=true&locale=en&layout=compact" alt="HussainWorld" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HussainWorld&" alt="HussainWorld" /></p>
+
 
 
 <!--- 

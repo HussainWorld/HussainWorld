@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Mobile Devlopment
 - 🌍  I'm based in Bahrain
-- 🌱 I’m currently learning NODE.JS & Express
+- 🌱 I’m currently learning REACT
 - 📫 How to reach me **hussain.nader.it@gmail.com**
 - ⚡ Fun fact: ☕ Tea lover
 - 🌟 Checkout my [projects](https://github.com/HussainWorld?tab=repositories) and leave a **_STAR_** ✨

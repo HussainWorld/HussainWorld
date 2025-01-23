@@ -24,11 +24,17 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <!--- GO Lnag --->
-<a href="https://www.google.com/search?client=safari&rls=en&q=go+programing+language&ie=UTF-8&oe=UTF-8" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Go-000?&logo=Go" alt="go lang" width="40" height="40"/> </a>
+<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go lang" width="40" height="40"/> </a>
+<!--- SWIFT  ---> 
+<a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+<!--- REACT  ---> 
+<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reaxt" width="40" height="40"/> </a>
+<!--- UNIX  --->
+<a href="https://en.wikipedia.org/wiki/Unix#:~:text=Unix%20(%2Fˈju%CB%90n,%2C%20Dennis%20Ritchie%2C%20and%20others." target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/> </a>
 <!--- EGS  --->
-<a href="https://www.google.com/search?client=safari&rls=en&q=go+programing+language&ie=UTF-8&oe=UTF-8" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-EJS-000?&logo=ejs" alt="egs" width="40" height="40"/> </a>
-<!--- SWIFT  --->
-<a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Swift-000?&logo=swift" alt="swift" width="40" height="40"/> </a>
+<a href="https://ejs.co/#install" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-EJS-000?&logo=ejs" alt="egs" width="40" height="40"/> </a>
+<!--- SQL  --->
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="sql" width="40" height="40"/> </a>
 </p>
 <br>
 

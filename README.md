@@ -28,7 +28,7 @@
 <!--- SWIFT  ---> 
 <a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 <!--- REACT  ---> 
-<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reaxt" width="40" height="40"/> </a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <!--- UNIX  --->
 <a href="https://en.wikipedia.org/wiki/Unix#:~:text=Unix%20(%2Fˈju%CB%90n,%2C%20Dennis%20Ritchie%2C%20and%20others." target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/> </a>
 <!--- EGS  --->

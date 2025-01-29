@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Hussain AL Shaikh</h1>
 </div>
 
-- 👀 I’m interested in Mobile Devlopment
+- 👀 I’m interested in Mobile Apps Devlopment
 - 🌍  I'm based in Bahrain
 - 🌱 I’m currently learning REACT
 - 📫 How to reach me **hussain.nader.it@gmail.com**

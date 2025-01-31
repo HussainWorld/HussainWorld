@@ -6,7 +6,7 @@
 - 🌍  I'm based in Bahrain
 - 🌱 I’m currently learning REACT
 - 📫 How to reach me **hussain.nader.it@gmail.com**
-- ⚡ Fun fact: ☕ Tea lover
+- ⚡ Fun fact: ☕ Tea Lover
 - 🌟 Checkout my [projects](https://github.com/HussainWorld?tab=repositories) and leave a **_STAR_** ✨
 - 🔗 Following me, it's **_FREE_**
 

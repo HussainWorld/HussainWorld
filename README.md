@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Mobile Apps Devlopment
 - 🌍  I'm based in Bahrain
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning REACT <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 - 📫 How to reach me **hussain.nader.it@gmail.com**
 - ⚡ Fun fact: ☕ Tea Lover
 - 🌟 Checkout my [projects](https://github.com/HussainWorld?tab=repositories) and leave a **_STAR_** ✨

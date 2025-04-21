@@ -2,8 +2,8 @@
   <h1>Hi 👋, I'm Hussain AL Shaikh</h1>
 </div>
 
-- 👀 I’m interested in Mobile Apps Devlopment
-- 🌍  I'm based in Bahrain
+- 👀 I’m interested in: Mobile Apps Devlopment
+- 🌍  I'm based in: Bahrain
 - 🌱 I’m currently learning: <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="20" height="20"/> </a>
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a>
@@ -11,7 +11,7 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> </a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a>
 
-- 📫 How to reach me **hussain.nader.it@gmail.com**
+- 📫 How to reach me:  **hussain.nader.it@gmail.com**
 - ⚡ Fun fact: ☕ Tea Lover
 - 🌟 Checkout my [projects](https://github.com/HussainWorld?tab=repositories) and leave a **_STAR_** ✨
 - 🔗 Following me, it's **_FREE_**

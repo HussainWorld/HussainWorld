@@ -14,7 +14,7 @@
 - 📫 How to reach me:  **hussain.nader.it@gmail.com**
 - ⚡ Fun fact: ☕ Tea Lover
 - 🌟 Checkout my [projects](https://github.com/HussainWorld?tab=repositories) and leave a **_STAR_** ✨
-- 🔗 Follow me, it's **_FREE_**
+- 🔗 Follow me !!
 
 
 <h3 align="left">Languages and Tools:</h3>

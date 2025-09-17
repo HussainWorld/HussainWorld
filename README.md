@@ -6,7 +6,7 @@
 - 🌍  I'm based in: Bahrain
 - 🌱 I’m currently learning: 
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> </a>
-<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go lang" width="20" height="20"/> </a>
+<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go lang" width="25" height="25"/> </a>
 
 
 

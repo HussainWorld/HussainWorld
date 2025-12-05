@@ -1,5 +1,5 @@
 <div>
-  <h1>Hi 👋, I'm Hussain AL Shaikh</h1>
+  <h1>Hi 👋, I'm Hussain</h1>
 </div>
 
 - 👀 I’m interested in: Mobile Apps Devlopment
